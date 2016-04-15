@@ -74,11 +74,6 @@ my $subk;
 my $subh;
 my $subx;
 my $vol1;
-my $pred_a = " ";
-my $pred_i = " ";
-my $pred_j = " ";
-my $pred_w = " ";
-my $pred_y = " ";
 my $publisheddate = " ";
 my $pred_b = " ";
 
